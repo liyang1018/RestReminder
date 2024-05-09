@@ -1,0 +1,16 @@
+window:
+  reminder-window-width: 1600
+  reminder-window-height: 800
+  reminder-window-full-screen: true
+#  提醒窗口半透明
+  reminder-window-opacity: 0.9
+  setting-window-width: 800
+  setting-window-height: 600
+time:
+#  每隔多久休息一次 单位分钟
+  rest-time: 2
+#  休息时间 单位分钟
+  rest-duration: 1
+
+language:
+  language: "english"
